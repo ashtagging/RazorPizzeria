@@ -35,3 +35,17 @@ body {
     text-align: right;
     color: grey;
 }
+
+.align-text-left{
+    text-align: left;
+}
+
+.make-own-div{
+    background-color: grey;
+    margin: 0;
+}
+
+.make-own-text{
+    margin: 100px 0 20px 0;
+    color: white;
+}
