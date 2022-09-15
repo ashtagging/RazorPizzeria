@@ -19,7 +19,6 @@
         public bool Pineapple { get; set; }
         public bool Tuna { get; set; }
         public bool Beef { get; set; }
-
         public float FinalPrice { get; set; }
 
 
