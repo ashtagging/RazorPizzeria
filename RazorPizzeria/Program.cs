@@ -3,7 +3,6 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
 //Adding database
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
